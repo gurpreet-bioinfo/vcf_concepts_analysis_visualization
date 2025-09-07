@@ -11,7 +11,7 @@
    1. https://hgvs-nomenclature.org/stable/recommendations/general/
    2. https://pubmed.ncbi.nlm.nih.gov/26931183/ 
 
-3. #### 📌Tutorial slides to explore and interactively visualize a VCF file using free web-based tools 🛠️:
+3. #### 📌Tutorial slides to explore and interactively visualize a VCF file using free web-based tools 🛠️: https://github.com/gurpreet-bioinfo/vcf_concepts_analysis_visualization/blob/main/Tutorial_VCF_Analysis_Visualization_FreeWeb-basedTools.pdf
     1. OpenCRAVAT: https://www.opencravat.org/
     2. Gene.iobio: https://gene.iobio.io/
  
